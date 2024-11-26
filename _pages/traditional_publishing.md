@@ -2,7 +2,7 @@
 layout: page
 permalink: /traditional_publishing/
 title: traditional publishing
-description: Overview of traditional publishing methods: offset printing, typewriters, physical distribution, and bookstores.
+description: Overview of traditional publishing methods.
 nav: true
 nav_order: 6
 ---
