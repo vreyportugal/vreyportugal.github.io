@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /traditional_publishing/
-title: Traditional Publishing
+title: traditional publishing
 description: Overview of traditional publishing methods: offset printing, typewriters, physical distribution, and bookstores.
 nav: true
-nav_order: 1
+nav_order: 6
 ---
 Limitations: time-consuming production, high costs, limited audience reach, and static formats.
 
