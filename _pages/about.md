@@ -21,3 +21,11 @@ social: true # includes social icons at the bottom of the page
 <b>REFERENCES</b>
 
 {% reference journalismuniversity2024 %}
+
+{% reference m2023 %}
+
+{% reference roos2023 %}
+
+{% reference tuckeretal2024 %}
+
+{% reference printingpress %}
