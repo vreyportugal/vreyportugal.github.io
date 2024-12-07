@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: with-toc
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
